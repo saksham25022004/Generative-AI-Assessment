@@ -1,11 +1,11 @@
-# 🧠 Generative AI Engineer Assessment
+# Generative AI Engineer Assessment
 
 Welcome to the **Generative AI Engineer Assessment**.  
 This hands-on challenge evaluates your ability to build, optimize, and reason about **real-world Generative AI systems** using **LLMs**, **Vector Databases**, and **APIs**.
 
 ---
 
-## 📦 Overview
+## Overview
 
 You’ll work across three independent yet connected tasks that simulate real Generative AI engineering challenges:
 
@@ -18,7 +18,7 @@ You’ll work across three independent yet connected tasks that simulate real Ge
 
 ---
 
-## 🧠 What You’ll Learn & Demonstrate
+## What You’ll Learn & Demonstrate
 
 By completing this assessment, you’ll showcase your ability to:
 - Apply **Retrieval-Augmented Generation (RAG)** principles effectively.  
@@ -29,7 +29,7 @@ By completing this assessment, you’ll showcase your ability to:
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - **Language:** Python 3.9+  
 - **Frameworks:** FastAPI, Pandas  
@@ -39,7 +39,7 @@ By completing this assessment, you’ll showcase your ability to:
 
 ---
 
-## 🚀 How to Start
+## How to Start
 
 1. Begin with [`INSTRUCTIONS.md`](./INSTRUCTIONS.md) for setup and environment details.  
 2. Complete the tasks **in order (1 → 2 → 3)** to simulate a real GenAI workflow:
@@ -50,7 +50,7 @@ By completing this assessment, you’ll showcase your ability to:
 
 ---
 
-## 🏁 Final Submission
+## Final Submission
 
 When you finish:
 - Ensure all three tasks run locally without errors.
@@ -59,4 +59,4 @@ When you finish:
 
 ---
 
-> 💡 **Tip:** Treat this as a real engineering sprint. Each task builds practical AI engineering depth — from working with embeddings and vector search to integrating APIs and automating data processing.
+> **Tip:** Treat this as a real engineering sprint. Each task builds practical AI engineering depth — from working with embeddings and vector search to integrating APIs and automating data processing.
